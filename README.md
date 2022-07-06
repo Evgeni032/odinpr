@@ -1,2 +1,2 @@
 # odinpr
-recipes
+HTML only site for recipes
